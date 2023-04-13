@@ -1,0 +1,25 @@
+textarea {
+    min-height: 400px;
+}
+
+.email_sender {
+    float: left;
+    font-weight: bold;
+}
+
+.email_subject {
+    position: relative;
+    left: 20px
+}
+
+.email_timestamp {
+    float: right;
+}
+
+.read {
+    background-color: #ececec;
+}
+
+.unread {
+    background-color: white;
+}
